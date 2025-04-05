@@ -18,7 +18,7 @@ $$S = \text{round}\left(\frac{1}{3}\sum_{i=1}^{3}HW_i\right).$$
     6.  [Обработка естественного языка: эмбеддинги](./week06)
     7.  [Обработка естественного языка: классификация, языковые модели](./week07)
     8.  [Обработка естественного языка: seq2seq, attention](./week08)
-    9.  Трансформеры (I): GPT-n, BERT, BART, T5, etc
+    9.  [Трансформеры (I): GPT-n, BERT, BART, T5, etc](./week09/)
     10. Трансформеры (II): CLIP, DALL-E, DDPM, etc
 </pre></big>
 
@@ -27,7 +27,8 @@ $$S = \text{round}\left(\frac{1}{3}\sum_{i=1}^{3}HW_i\right).$$
 <big><pre>
     1.  [Домашнее задание 1](./hometasks/hometask_1.ipynb)
     2.  [Домашнее задание 2](./hometasks/hometask_2_baselines.ipynb)
-    2.  [Домашнее задание 3](./hometasks/hometask_3.ipynb)
+    3.  [Домашнее задание 3](./hometasks/hometask_3.ipynb)
+    4.  [Домашнее задание 4 (бонусное)](./hometasks/hometask_4_bonus.ipynb)
 </pre></big>
 
 ## Дополнительные материалы
